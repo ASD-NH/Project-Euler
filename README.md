@@ -2,9 +2,6 @@
 
 [Project Euler](https://projecteuler.net/) is a site where you can complete algorithm problems in any programming language and submit the numerical answers. If you enjoy programming, this can be a great way to hone your skills. If you'd like to submit a solution, ask an admin to add you to the repository as a contributer. See the submission guidelines for more information.
 
-To keep things orderly, please follow this file naming convention when submitting files:
+To keep things orderly, please follow this file naming convention when submitting files: `problem#-solution#`. The first person to submit a solution to a problem will have a solution number of 1, the second person will have 2, and so on.
 
-- A number should be first, followed by a hyphen. The number represents the number solution it is. For example, the first solution submitted would have a 1, the second a 2, and so on.
-- Next should be the name of the problem on Project Euler, all in lowercase. Replace spaces with hyphens.
-
-Also remember to put your name and the problem number in a comment at the top of your solution! Thanks so much! We'd love to see how ASD programs!
+For example, if you're submitting the third solution to the problem "Multiples of 3 and 5" (problem #1) in Python, the filename would be `problem1-solution3.py`. See the repository for more examples. Also remember to put your name in a comment at the top of your solution! Thanks so much! We'd love to see how ASD programs!
